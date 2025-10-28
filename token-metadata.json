@@ -1,0 +1,8 @@
+{
+  "name": "Solucan Token",
+  "symbol": "SLC",
+  "decimals": 18,
+  "description": "Solucan Token (SLC) - Ethereum Mainnet",
+  "website": "https://slc.kriptoalsat.online",
+  "logoURI": "https://raw.githubusercontent.com/kriptoalsat-sudo/slc-token-metadata/main/slc-logo.png"
+}
