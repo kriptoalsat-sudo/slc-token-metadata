@@ -1,0 +1,16 @@
+{
+  "name": "Solucan Official Token List",
+  "logoURI": "https://raw.githubusercontent.com/kriptoalsat-sudo/etherscan.io-0x0e72559c45da1a07f176bf95430f1f3616c980b3/main/assets/slc-logo.svg",
+  "timestamp": "2025-10-28T00:00:00+03:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x0e72559c45da1a07f176bf95430f1f3616c980b3",
+      "name": "Solucan Token",
+      "symbol": "SLC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/kriptoalsat-sudo/etherscan.io-0x0e72559c45da1a07f176bf95430f1f3616c980b3/main/assets/slc-logo.svg"
+    }
+  ]
+}
