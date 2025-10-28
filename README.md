@@ -11,6 +11,13 @@ Official metadata and logo repository for **Solucan Token (SLC)** deployed on th
 - **Decimals:** 18  
 - **Network:** Ethereum Mainnet  
 - **Website:** [https://slc.kriptoalsat.online](https://slc.kriptoalsat.online)  
+---
+
+## 💱 Exchange Market
+
+| Pair | Exchange | Link |
+|------|-----------|------|
+| SLC/USDT | KriptoAlSat Exchange | [Open Market](https://kriptoalsat.online/tr/exchange/dashboard?coin_pair=SLC_USDT) |
 
 ---
 
