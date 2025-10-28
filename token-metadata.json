@@ -2,7 +2,11 @@
   "name": "Solucan Token",
   "symbol": "SLC",
   "decimals": 18,
-  "description": "Solucan Token (SLC) - Ethereum Mainnet",
+  "description": "Solucan Token (SLC) is an ERC-20 token deployed on the Ethereum Mainnet. It powers the Solucan ecosystem and supports DeFi integrations across platforms such as MetaMask, Uniswap, and TrustWallet.",
   "website": "https://slc.kriptoalsat.online",
-  "logoURI": "https://raw.githubusercontent.com/kriptoalsat-sudo/slc-token-metadata/main/slc-logo.png"
+  "logoURI": "https://raw.githubusercontent.com/kriptoalsat-sudo/slc-token-metadata/main/slc-logo.png",
+  "tags": ["erc20", "defi", "token", "ethereum", "solucan"],
+  "network": "Ethereum Mainnet",
+  "chainId": 1,
+  "address": "0x0e72559c45da1a07f176bf95430f1f3616c980b3"
 }
